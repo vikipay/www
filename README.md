@@ -1,6 +1,9 @@
 # www.vikipay.com - lifetime service
 
-![obraz](https://github.com/user-attachments/assets/10228368-bb23-4922-8fcb-417a996bc3f8)
+
+![obraz](https://github.com/user-attachments/assets/fc7a9ad9-2bbc-4bc4-bfad-44f3dc75df67)
+
+"One-time payment software" – proste i czytelne, jasno wskazujące na jednorazową opłatę za oprogramowanie.
 
 
 **"Lifetime SaaS market"** to termin, który odnosi się do rynku sprzedaży produktów typu SaaS (Software as a Service, czyli oprogramowanie jako usługa) z jednorazową opłatą licencyjną na „całe życie” (ang. **lifetime deal**). 
