@@ -179,6 +179,48 @@ Dzięki systemowi płatności vikiPay, użytkownicy mogą korzystać z oprogramo
 
 
 
+## FAQ
+
+Dzięki modelowi vikiPay, małe organizacje mogą korzystać z profesjonalnych rozwiązań bez obaw o stałe koszty i ograniczenia związane z tradycyjnymi modelami oprogramowania. To podejście może zwiększyć dostępność oprogramowania i umożliwić innowacyjny rozwój na rynku.
+
+
+1. **Czy model jednorazowej płatności nie zniechęci dostawców do ciągłego rozwoju oprogramowania?**
+- Wiele osób może obawiać się, że po jednorazowym zakupie dostawcy oprogramowania nie będą mieli motywacji do dalszych aktualizacji i wsparcia technicznego. Jak można to zapewnić w modelu vikiPay?
+
+2. **Jak vikiPay radzi sobie z różnorodnością potrzeb użytkowników?**
+- Użytkownicy mogą mieć różne wymagania dotyczące funkcjonalności i wsparcia. Czy system vikiPay będzie w stanie dostosować się do tych zróżnicowanych potrzeb?
+
+3. **Co się stanie, jeśli dostawca oprogramowania zbankrutuje?**
+- W przypadku jednorazowego zakupu, co się stanie z aplikacją i jej wsparciem, jeśli firma dostarczająca oprogramowanie zbankrutuje lub zaprzestanie działalności?
+
+4. **Czy w przypadku niskiego zużycia rzeczywiście nie będzie kosztów?**
+- Model zakłada, że niskie zużycie prowadzi do zerowych kosztów, ponieważ klienci otrzymują darmowe tokeny. Jak to działa w praktyce? Czy są jakieś ukryte koszty, o których klienci powinni wiedzieć?
+
+5. **Jak vikiPay porównuje się z modelami SaaS i Open Source on-premise?**
+- W jaki sposób oferowany model vikiPay przewyższa tradycyjne modele SaaS i Open Source on-premise, które są obecnie popularne na rynku?
+
+---
+
+### Wyjaśnienie różnic między modelami
+
+Na rynku mamy dwa główne modele, które dominują w dziedzinie oprogramowania: **SaaS** oraz **Open Source on-premise**. Oto jak vikiPay wyróżnia się na ich tle:
+
+1. **SaaS**:
+- W modelu SaaS płacisz miesięczny abonament, co może generować stałe koszty, które mogą być zbyt wysokie dla małych organizacji. Koszt jest stały, niezależnie od tego, jak dużo używasz oprogramowania. Dodatkowo, oprogramowanie jest często związane z określoną platformą lub dostawcą usług, co ogranicza elastyczność.
+
+2. **Open Source on-premise**:
+- Model Open Source on-premise pozwala na większą kontrolę i dostosowanie, ale wiąże się z kosztami wdrożenia, utrzymania oraz wsparcia technicznego. Wymaga też zazwyczaj większej wiedzy technicznej, co może być wyzwaniem dla małych organizacji.
+
+### Co oferuje vikiPay?
+
+- **Elastyczność**: Dzięki vikiPay możesz korzystać z oprogramowania bez względu na operatora usług, platformę czy urządzenie. Oznacza to, że masz pełną kontrolę nad tym, jak i gdzie korzystasz z aplikacji.
+
+- **Koszty uzależnione od użycia**: Płacisz tylko za to, co rzeczywiście wykorzystujesz. W przypadku małych organizacji, które mają niskie zużycie, mogą w ogóle nie ponosić kosztów, ponieważ otrzymują darmowe tokeny. 
+
+- **Brak uzależnienia od urządzenia**: Oprogramowanie nie jest powiązane z konkretnym urządzeniem ani numerem telefonu, co daje większą swobodę użytkowania.
+
+
+
 
 ---
 
