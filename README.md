@@ -19,7 +19,7 @@
 
 💻 **Jednorazowa opłata** – płacisz tylko raz za dostęp do pełnej funkcjonalności oprogramowania i usług SaaS.
 
-📱 **Multiplatformowe narzędzie** – korzystaj z aplikacji na telefonie, komputerze i serwerze! Gdziekolwiek jesteś, masz pełną kontrolę.
+📱 **Multiplatformowe narzędzie** – korzystaj z aplikacji na telefonie, komputerze i serwerze! Produktywnie, gdziekolwiek jesteś!
 
 🔄 **Elastyczne uruchamianie na płatnej infrastrukturze** – dzięki niewygasającym tokenom, uruchamiasz aplikację na partnerach premium, kiedy tylko tego potrzebujesz!
 
