@@ -5,7 +5,7 @@
 
 "One-time payment software" - get access to lifetime Software Marketplace after one-time payment  
 
-
+<script src="//www.multisitemap.com/valid-links.js"></script>
 
 
 ---
