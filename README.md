@@ -21,9 +21,9 @@
 
 📱 **Multiplatformowe narzędzie** – korzystaj z aplikacji na telefonie, komputerze i serwerze! Produktywnie, gdziekolwiek jesteś!
 
-🔄 **Elastyczne uruchamianie na płatnej infrastrukturze** – dzięki niewygasającym tokenom, uruchamiasz aplikację na partnerach premium, kiedy tylko tego potrzebujesz!
+🔄 **Elastyczne uruchamianie na płatnej infrastrukturze** – dzięki niewygasającym tokenom, uruchamiasz aplikację u płatnych partnerów za darmo!
 
-🎁 **Darmowe tokeny co miesiąc** – przez pierwszy rok otrzymujesz darmowe tokeny, by przetestować pełne możliwości! Potrzebujesz więcej? Dokup dodatkowe, a gdy nie są Ci już potrzebne, **odsprzedaj je**!
+🎁 **Darmowe tokeny co miesiąc** – przez pierwszy rok otrzymujesz tysiące tokenów, by przetestować pełne możliwości! Potrzebujesz więcej? Dokup dodatkowe, a gdy nie są Ci już potrzebne, **odsprzedaj je**!
 
 ---
 
